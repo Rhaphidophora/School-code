@@ -1,1 +1,1 @@
-Collection of Code I wrote of school assigments
+Collection of Code I wrote as part of doing school assigments
